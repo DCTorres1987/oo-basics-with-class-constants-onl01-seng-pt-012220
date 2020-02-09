@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   class Book
+=======
+class Book
+>>>>>>> 1ce2c8527adf0682bcc0faa535ea02e4eeb69a51
   attr_accessor :author, :page_count 
   attr_reader :title, :genre, :brand
   
